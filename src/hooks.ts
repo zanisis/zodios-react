@@ -12,7 +12,7 @@ import {
   QueryFunctionContext,
   QueryKey,
   UseInfiniteQueryResult,
-} from "@tanstack/react-query";
+} from "react-query";
 import { ZodiosError, ZodiosInstance } from "@zodios/core";
 import type {
   AnyZodiosMethodOptions,
